@@ -17,7 +17,7 @@ description: golang import操作。
 	import "os"
 	import "fmt"; import "os"
 	
-	// 推荐方法
+	// 推荐方法s
 	import (
 		"fmt"
 		"os"
