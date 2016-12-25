@@ -1,16 +1,16 @@
 # Site settings
-title: 瓜皮
+title: lee
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "liekkas|读而立·写而生"  
+description: "生活总让我们遍体鳞伤，那些受伤的一定会变成我们最强壮的地方"
 baseurl: ""
-url: "http://liekkas"  
+url: "http://lee"
 
 # About/contact
 owner: 
-  name: " liekkas"
-  email: kotomifi@gmail.com
-  bio: "写就是写的报酬"
+  name: " lee"
+  email: leetpy2@gmail.com
+  bio: "求知若饥，虚心若愚"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -18,7 +18,7 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: 
+github_username: "https://github.com/leetpy"
 facebook_username: 
 weibo_username: 
 zhihu_username: 
